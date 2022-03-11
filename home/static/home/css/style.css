@@ -1,0 +1,12 @@
+#id_job_city,#id_gender{
+    display: inline-flex}
+
+#id_job_city > div, #id_gender> div{
+    padding-left: 5px;
+    padding-right:15px;
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+  }
